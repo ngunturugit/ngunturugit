@@ -1,6 +1,6 @@
 # Hello, I'm Nikhit 👋
 
-![https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back05.jpg]  <!-- Replace with your profile image -->
+![image](https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back05.jpg)  <!-- Replace with your profile image -->
 
 Welcome to my GitHub! I'm currently learning web dev and excited about building projects in JS. Here's a little more about me:
 
