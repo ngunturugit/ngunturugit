@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Nikhit 👋
 
-![Profile Image]([https://via.placeholder.com/150](https://plus.unsplash.com/premium_photo-1676496046182-356a6a0ed002?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))  <!-- Replace with your profile image -->
+![Profile Image]([[https://via.placeholder.com/150](https://plus.unsplash.com/premium_photo-1676496046182-356a6a0ed002?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back05.jpg))  <!-- Replace with your profile image -->
 
 Welcome to my GitHub! I'm currently learning web dev and excited about building projects in JS. Here's a little more about me:
 
