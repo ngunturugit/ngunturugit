@@ -15,14 +15,5 @@ Welcome to my GitHub! I'm currently learning web dev and excited about building 
 - **Languages**: HTML, CSS,JS, Python, Java
 - **Version Control**: Git, GitHub, etc.
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true)  <!-- GitHub Stats Widget -->
-
 ## 🔗 Connect with Me
 - [CodePen](https://codepen.io/ngunturugit/) <!-- Replace with your CodePen profile link -->
-
-## 📚 Some of My Projects
-Here are a few projects I’ve worked on:
-https://www.behance.net/nikhitgunturu2
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me if you have any questions or ideas for collaboration. 😄
